@@ -1,0 +1,79 @@
+div#content div{
+	display: inline-block;
+	width: 49%;
+}
+
+div#content div h1, p, iframe{
+	margin: 35px;
+}
+
+div#content div.leftbox{
+	vertical-align: top;
+	color: white;
+}
+
+div#content div.rigthbox{
+	color: white;
+}
+
+div#content{
+	color: white;
+}
+
+div.annonce{
+	margin: 35px;
+	font-size: 25px;
+	color: white;
+}
+
+div.contact{
+	margin: 35px;
+	font-size: 25px;
+	color: white;
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+	color:white;
+	background: #5D6362;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a {
+	color:white;
+	background: #9BA09F;
+	transition: 0.5s; all,
+}
+
+p{
+	
+	color: white;
+}
+
+body{
+	background: url(https://i.pinimg.com/originals/62/17/e0/6217e0848d81d0ee750f8d742e8fc9ae.jpg);
+	background-size:2000px;
+}
+
+a{
+	color: white;
+}
+
+h1.head{
+	font-size: 30px; 
+	background: #5D6362;
+	color:#fff;
+	padding-top:  5px;
+	padding-left: 500px;
+}
+
+h1.help{
+	background: #5D6362;
+	color: #fff;
+
+
